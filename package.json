@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Patrick Meier",
+  "author": “Ivan Sugi”,
   "license": "Apache-2.0",
   "dependencies": {
     "boom": "^4.2.0",
